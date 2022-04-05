@@ -1,2 +1,2 @@
 # Choas_Fractals_Practices
-畫圖用的
+畫碎形圖用的
